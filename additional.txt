@@ -1,5 +1,6 @@
+// ==UserScript==
 // @name         Tik Tok Dark Mode
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/GalaxyWolfYT-Official/Tik-Tok-Dark-Theme/
 // @version      2.1
 // @description  Discord: GalaxyWolfYT#0788
 // @author       GalaxyWolfYT
@@ -8,3 +9,4 @@
 // @run-at       document-end
 // @license      MIT
 // @grant        none
+// ==/UserScript==
