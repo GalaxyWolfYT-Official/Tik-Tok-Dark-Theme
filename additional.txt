@@ -1,0 +1,10 @@
+// @name         Tik Tok Dark Mode
+// @namespace    http://tampermonkey.net/
+// @version      2.1
+// @description  Discord: GalaxyWolfYT#0788
+// @author       GalaxyWolfYT
+// @match        https://www.tiktok.com/*
+// @icon         https://www.google.com/s2/favicons?domain=tiktok.com
+// @run-at       document-end
+// @license      MIT
+// @grant        none
