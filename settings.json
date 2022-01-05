@@ -6,10 +6,10 @@
 
     "borderRadiusSetting": "10px",
 
-    "whiteList": ["DivSeekBarProgress"],
-    "lighterGrayList": ["DivVolumeControlBar", "DivVolumeControlCircle", "DivSeekBar", "DivSeekBarCircle", "DivVolumeControlProgress"],
-    "borderList": ["ButtonVoiceControlNew"],
-    "invisibilityList": ["DivSeekBarContainer","DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivSeekBarTimeContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
-    "invistStuffList": ["PReportText", "DivSeekBarTimeContainer"],
-    "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"]
+    "whiteList": [],
+    "lighterGrayList": ['DivVolumeControlBar', 'DivVolumeControlCircle', 'DivSeekBar', 'DivSeekBarCircle', 'DivVolumeControlProgress'],
+    "borderList": ['ButtonVoiceControlNew'],
+    "invisibilityList": ['DivSeekBarContainer', 'DivVideoControlContainer', 'DivVideoControlBottom', 'DivVideoControlTop', 'DivVoiceControlContainer', 'DivSeekBarTimeContainer', 'DivBasicPlayerWrapper', 'DivPlayIconContainer', 'DivMuteIconContainer', 'VideoBasic', 'DivContainer', 'ImgPoster', 'DivVideoWrapper'],
+    "invistStuffList": ['DivSeekBarProgress', 'PReportText', 'DivSeekBarTimeContainer'],
+    "xlinkList": ['#svg-pc-share', '#svg-heart-fill', 'fill-rule']
 }
