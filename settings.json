@@ -7,8 +7,8 @@
 
     "borderRadiusSetting": "10px",
 
-    "whiteList": ["DivSeekBar", "DivSeekBarCircle", "DivVolumeControlBar"],
-    "lighterGrayList": ["null"],
+    "whiteList": ["DivSeekBar", "DivSeekBarCircle"],
+    "lighterGrayList": ["DivVolumeControlBar", "DivVolumeControlCircle"],
     "borderList": ["ButtonVoiceControlNew"],
     "invisibilityList": ["DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
     "invistStuffList": ["PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
