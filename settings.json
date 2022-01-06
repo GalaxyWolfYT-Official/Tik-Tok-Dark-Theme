@@ -9,7 +9,7 @@
     "whiteList": ["null"],
     "lighterGrayList": ["DivVolumeControlBar", "DivVolumeControlCircle", "DivSeekBar", "DivSeekBarCircle", "DivVolumeControlProgress"],
     "borderList": ["ButtonVoiceControlNew"],
-    "invisibilityList": ["DivMuteIconContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivSeekBarTimeContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
+    "invisibilityList": ["DivVoiceControlContainer", "DivMuteIconContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivSeekBarTimeContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
     "invistStuffList": ["DivSeekBarProgress", "PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
     "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"]
 }
