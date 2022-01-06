@@ -13,5 +13,6 @@
     "invisibilityList": ["DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
     "invistStuffList": ["PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
     "semiInvisibilityList": ["DivSeekBarProgress", "DivVolumeControlProgress"],
-    "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"]
+    "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"],
+    "manualList1": ["info-avatar-mask", "conversation-list-setting-icon"]
 }
