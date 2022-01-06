@@ -7,10 +7,11 @@
 
     "borderRadiusSetting": "10px",
 
-    "whiteList": ["DivSeekBar", "DivSeekBarCircle", "DivVolumeControlProgress", "DivVolumeControlCircle",],
-    "lighterGrayList": ["DivVolumeControlBar"],
+    "whiteList": ["DivSeekBar", "DivSeekBarCircle", "DivVolumeControlProgress", "DivVolumeControlCircle", "DivVolumeControlBar"],
+    "lighterGrayList": ["null"],
     "borderList": ["ButtonVoiceControlNew"],
     "invisibilityList": ["DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
-    "invistStuffList": ["DivSeekBarProgress", "PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
+    "invistStuffList": ["PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
+    "semiInvisibilityList": ["DivSeekBarProgress"],
     "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"]
 }
