@@ -3,11 +3,12 @@
     "lighterGray": "rgb(50, 50, 50)",
     "white": "rgb(255, 255, 255)",
     "invisColor": "rgb(255 255 255 / 0%)",
+    "semiInvisColor": "rgb(255 255 255 / 25%)",
 
     "borderRadiusSetting": "10px",
 
-    "whiteList": ["null"],
-    "lighterGrayList": ["DivVolumeControlBar", "DivVolumeControlCircle", "DivSeekBar", "DivSeekBarCircle", "DivVolumeControlProgress"],
+    "whiteList": ["DivSeekBar", "DivSeekBarCircle", "DivVolumeControlProgress", "DivVolumeControlCircle",],
+    "lighterGrayList": ["DivVolumeControlBar"],
     "borderList": ["ButtonVoiceControlNew"],
     "invisibilityList": ["DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
     "invistStuffList": ["DivSeekBarProgress", "PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
