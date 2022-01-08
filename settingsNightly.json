@@ -1,0 +1,18 @@
+{
+    "darkGray":"rgb(28, 28, 28)",
+    "lighterGray": "rgb(50, 50, 50)",
+    "white": "rgb(255, 255, 255)",
+    "invisColor": "rgb(255 255 255 / 0%)",
+    "semiInvisColor": "rgb(255 255 255 / 25%)",
+
+    "borderRadiusSetting": "10px",
+
+    "whiteList": ["DivSeekBar", "DivSeekBarCircle", "DivVolumeControlBar", "DivVolumeControlCircle"],
+    "lighterGrayList": [""],
+    "borderList": ["ButtonVoiceControlNew"],
+    "invisibilityList": ["DivModalContainer", "DivDoubleTapContainer", "DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
+    "invistStuffList": ["PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
+    "semiInvisibilityList": ["DivSeekBarProgress", "DivVolumeControlProgress"],
+    "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"],
+    "manualList1": ["info-avatar-mask", "conversation-list-setting-icon"]
+}
