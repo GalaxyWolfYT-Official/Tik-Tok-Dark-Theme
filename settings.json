@@ -10,7 +10,7 @@
     "whiteList": ["DivSeekBar", "DivSeekBarCircle", "DivVolumeControlBar", "DivVolumeControlCircle"],
     "lighterGrayList": [""],
     "borderList": ["ButtonVoiceControlNew"],
-    "invisibilityList": ["DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
+    "invisibilityList": ["DivModalContainer", "DivDoubleTapContainer", "DivVolumeControlContainer", "DivSeekBarContainer", "DivVideoControlContainer", "DivVideoControlBottom", "DivVideoControlTop", "DivVoiceControlContainer", "DivBasicPlayerWrapper", "DivPlayIconContainer", "DivMuteIconContainer", "VideoBasic", "DivContainer", "ImgPoster", "DivVideoWrapper"],
     "invistStuffList": ["PReportText", "DivSeekBarTimeContainer", "info-avatar-mask"],
     "semiInvisibilityList": ["DivSeekBarProgress", "DivVolumeControlProgress"],
     "xlinkList": ["#svg-pc-share", "#svg-heart-fill", "fill-rule"],
